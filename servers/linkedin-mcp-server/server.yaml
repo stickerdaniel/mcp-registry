@@ -18,7 +18,7 @@ about:
 source:
   project: https://github.com/stickerdaniel/linkedin-mcp-server
   branch: docker-release
-  commit: b0dd016dace3a056dae9cf1b82d682ebea7014de
+  commit: df3cfed121cbbad15c495c15b84f7886985ac21d
 run:
   volumes:
     - linkedin-mcp-server-session:/home/pwuser/.linkedin-mcp
